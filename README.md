@@ -19,7 +19,7 @@ type Profile = {
 	showProfile: (Profile) -> (),
 }
 
-local MyProfile = {
+local myProfile = {
 	name = "xn1781",
 	aliases = { "len" },
 	socials = {
@@ -96,7 +96,7 @@ local function appendProjects(projectList: { [number]: Project }, myProfile: str
 end
 
 -- Displays the profile
-function MyProfile:showProfile()
+function myProfile:showProfile()
 	local headerTemplate = [[
 %s (Aka: %s)
 Current Goals: %s
@@ -117,6 +117,6 @@ All my socials:]]
 	print(myProfile)
 end
 
-MyProfile:showProfile()
+myProfile:showProfile()
 
 ```
