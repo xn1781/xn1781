@@ -77,7 +77,7 @@ local MyProfile = {
 	},
 } :: Profile
 
--- Appends lists of projects to profile
+-- Appends a list of projects to profile
 -- @param list The projects to append to profile
 -- @param myProfile Current profile string
 -- @return myProfile The profile which has all projects appended to
