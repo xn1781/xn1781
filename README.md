@@ -28,7 +28,7 @@ local MyProfile = {
 		["roblox"] = "664FEB74873A00E0E6CC",
 	},
 
-	currentGoals = "Learn Python and how to make a website",
+	currentGoals = "Learning how to make a website and also Python",
 
 	currentProjects = {
 		{
