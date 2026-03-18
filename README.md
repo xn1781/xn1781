@@ -2,7 +2,10 @@
   <h1>👋 I'm xn1781</h1>
   <p>Used to make stuff for a lego game</p>
 
-  <img src="https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian" />
+  <img src="https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian" /></br></br>
+  <a href="https://u8views.com/github/xn1781"><img src="https://u8views.com/api/v1/github/profiles/83955476/views/day-week-month-total-count.svg"></a></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=xn1781&show_icons=true&theme=apprentice&show=discussions_started,discussions_answered" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn1781" />
 </div>
 
 ---
@@ -15,7 +18,7 @@ I'm currently expanding my horizon into web development and systems programming:
 ### 📂 Projects
 
 **Combat Warriors**
-> Every vulnerability mentioned here has been reported to Combat Warriors developers
+> Every vulnerability mentioned here has been disclosed to Combat Warriors developers
 
 | Title | Showcase |
 | :--- | :---: |
