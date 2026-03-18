@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 I'm xn1781</h1>
-  <p>Used to make stuff for lego games</p>
+  <p>Used to make stuff for a lego game</p>
 
   <img src="https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian" />
 </div>
