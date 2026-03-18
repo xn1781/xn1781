@@ -36,6 +36,6 @@ I'm currently expanding my horizon into web development and systems programming:
 | :--- | :---: |
 | **Brainrot Race**<br><sub>(CURRENTLY BEING WORKED ON)</sub> | <div align="center"><sub>Visualization of obstacles hitbox on the server</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/br.png?raw=true" /></div> |
 | **99 Nights In The Forest Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/99ccu.png?raw=true" /></div> |
-| **Grow A Garden Modded** | <div align="center"><sub>Couldn't find the exact picture but here:</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/Screenshot%202026-03-18%20183527.png?raw=true" /></div> |
+| **Grow A Garden Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/Screenshot%202026-03-18%20183527.png?raw=true" /></div> |
 
 > More to come!
