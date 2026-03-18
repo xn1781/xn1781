@@ -12,7 +12,7 @@ I'm currently expanding my horizon into web development and systems programming:
 
 ---
 
-### 📂 Past projects
+### 📂 Projects
 
 **Combat Warriors**
 > Every vulnerability mentioned here has been reported to Combat Warriors developers
