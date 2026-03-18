@@ -1,3 +1,8 @@
+# What I use!
+[![](https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian&perline=3)](https://skillicons.dev)
+# Hoping to learn these!
+[![](https://skillicons.dev/icons?i=ts,js,react,html,css,c,cs,cpp,java&perline=3)](https://skillicons.dev)
+# My profile!
 ```lua
 --!strict
 
