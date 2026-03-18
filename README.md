@@ -1,8 +1,19 @@
-# Hello I'm xn1781 👋
-[![](https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian)](https://skillicons.dev)
-## Hoping to learn these!
-[![](https://skillicons.dev/icons?i=ts,js,react,html,css,c,cs,cpp,java)](https://skillicons.dev)
-## My profile!
+<div align="center">
+  <h1>👋 I'm xn1781</h1>
+  <p>Used to make stuff for lego games</p>
+
+  <img src="https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian" />
+</div>
+
+---
+### 📚 Roadmap
+I'm currently expanding my horizon into web development and systems programming:
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,c,cs,cpp,java" />
+
+---
+
+### 🧑 My Profile
+> **Run the Luau code [here](https://play.luau.org/)**
 ```lua
 --!strict
 
