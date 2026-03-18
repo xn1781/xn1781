@@ -1,8 +1,8 @@
-# What I use!
+# Hello I'm xn1781 👋
 [![](https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian)](https://skillicons.dev)
-# Hoping to learn these!
+## Hoping to learn these!
 [![](https://skillicons.dev/icons?i=ts,js,react,html,css,c,cs,cpp,java)](https://skillicons.dev)
-# My profile!
+## My profile!
 ```lua
 --!strict
 
