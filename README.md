@@ -12,127 +12,30 @@ I'm currently expanding my horizon into web development and systems programming:
 
 ---
 
-### 🧑 My Profile
-> **Run the Luau code [here](https://play.luau.org/)**
-```lua
---!strict
+### 🧑 Past projects
 
-type Project = {
-	name: string,
-	description: string,
-	languages: string,
-	tools: string,
-}
+**Combat Warriors**
+> Every vulnerability mentioned here has been reported to Combat Warriors developers
 
-type Profile = {
-	name: string,
-	aliases: { [number]: string },
-	socials: { [string]: string },
-	currentGoals: string,
-	currentProjects: { [number]: Project },
-	pastProjects: { [number]: Project },
+| Title | Showcase |
+| :--- | :---: |
+| **Rehydra** | <div align="center"><a href="https://www.youtube.com/watch?v=ItDaTxRik4c"><img src="https://img.youtube.com/vi/ItDaTxRik4c/maxresdefault.jpg" width="400" /></a><br><sub>Click to watch the video on Youtube</sub></div> |
+| **Infinite Credits** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/Infinite_Credits_Demonstration.gif?raw=true" /><br><sub>After running it for a day:</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/bigmoney.png?raw=true" /></div> |
+| **Part Deletion** | <div align="center"><sub>Video of someone in the incident:</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/themapisgonee.gif?raw=true" /></div> |
+| **God mode** | <div align="center"><sub>Sorry for the low quality gif!</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/trimmedvidgif.gif?raw=true" /></div> |
 
-	showProfile: (Profile) -> (),
-}
+**Minecraft**
+| Title | Showcase |
+| :--- | :---: |
+| **Minescript Ore ESP** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/oreesp.png?raw=true" /></div> |
 
-local myProfile = {
-	name = "xn1781",
-	aliases = { "len" },
-	socials = {
-		["discord"] = "xn1781",
-		["youtube"] = "@xn-1781",
-		["roblox"] = "664FEB74873A00E0E6CC",
-	},
+**Roblox Games**
+> Stopped making modded games since last year
 
-	currentGoals = "Learning how to make a website and also Python",
+| Title | Showcase |
+| :--- | :---: |
+| **Brainrot Race**<br><sub>(CURRENTLY BEING WORKED ON)</sub> | <div align="center"><sub>Visualization of obstacles hitbox on the server</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/br.png?raw=true" /></div> |
+| **99 Nights In The Forest Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/99ccu.png?raw=true" /></div> |
+| **Grow A Garden Modded** | <div align="center"><sub>Couldn't find the exact picture but here:</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/Screenshot%202026-03-18%20183527.png?raw=true" /></div> |
 
-	currentProjects = {
-		{
-			name = "Ore ESP",
-			description = "A cheat that allows you to see any ore through blocks.",
-			languages = "python",
-			tools = "Visual Studio Code, Minescript",
-		},
-
-		{
-			name = "Brainrot Race",
-			description = "A game based on racing to grab as many brainrots as possible while avoiding obstacles before the timer runs out.",
-			languages = "luau",
-			tools = "Visual Studio Code, Rojo, Rokit, Wally, Git",
-		},
-	},
-
-	pastProjects = {
-		{
-			name = "ReHydra",
-			description = 'A cheat for the ROBLOX game "Combat Warriors" which has features such as godmode, invisibility, destroy maps and infinite credits.\n    (All of these vulnerabilites have been reported to the developers before they were public)',
-			languages = "luau",
-			tools = "Visual Studio Code",
-		},
-
-		{
-			name = "Grow A Garden Modded",
-			description = "A modified version of Grow A Garden which was able to gain around 30k+ CCU.",
-			languages = "luau",
-			tools = "Visual Studio Code, Rojo",
-		},
-
-		{
-			name = "99 Nights In The Forest Modded",
-			description = "A modified version of 99 Nights In The Forest which was able to gain around 100k+ CCU.",
-			languages = "luau",
-			tools = "Visual Studio Code, Rojo",
-		},
-
-		{
-			name = "Trade RNG",
-			description = "An RNG game that centers around trading with your limiteds.",
-			languages = "luau",
-			tools = "Visual Studio Code, Rojo",
-		},
-	},
-} :: Profile
-
--- Appends a list of projects to profile
--- @param list The projects to append to profile
--- @param myProfile Current profile string
--- @return myProfile The profile which has all projects appended to
-local function appendProjects(projectList: { [number]: Project }, myProfile: string)
-	for index, project in projectList do
-		myProfile ..= string.format(
-			"\n  > %s [%s]\n    Description: %s\n    Tools: %s",
-			project.name,
-			project.languages,
-			project.description,
-			project.tools
-		)
-	end
-
-	return myProfile
-end
-
--- Displays the profile
-function myProfile:showProfile()
-	local headerTemplate = [[
-%s (Aka: %s)
-Current Goals: %s
-
-All my socials:]]
-
-	local myProfile = string.format(headerTemplate, self.name, table.concat(self.aliases, ", "), self.currentGoals)
-	for platform, handle in self.socials do
-		local formattedPlatform = platform:sub(1, 1):upper() .. platform:sub(2)
-		myProfile ..= string.format("\n  - %s: %s", formattedPlatform, handle)
-	end
-
-	myProfile ..= "\n\nCurrent Projects:"
-	myProfile = appendProjects(self.currentProjects, myProfile)
-	myProfile ..= "\n\nPast Projects:"
-	myProfile = appendProjects(self.pastProjects, myProfile)
-
-	print(myProfile)
-end
-
-myProfile:showProfile()
--- Run this at https://play.luau.org/!
-```
+> More to come!
