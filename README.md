@@ -41,4 +41,6 @@ I'm currently expanding my horizon into web development and systems programming:
 | **99 Nights In The Forest Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/99ccu.png?raw=true" /></div> |
 | **Grow A Garden Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/Screenshot%202026-03-18%20183527.png?raw=true" /></div> |
 
-> More to come!
+<div align="center">
+  <img width="200" height="200" src="https://github.com/xn1781/xn1781/blob/main/assets/coredrill.png" />
+</div>
