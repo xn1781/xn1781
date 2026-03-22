@@ -3,7 +3,12 @@
   <h1>👋 I'm xn1781</h1>
   <p>Used to make stuff for a lego game</p>
 
-  <img src="https://skillicons.dev/icons?i=lua,python,robloxstudio,vscode,sublime,obsidian" /></br></br>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
+  </br>
   <a href="https://u8views.com/github/xn1781"><img src="https://u8views.com/api/v1/github/profiles/83955476/views/day-week-month-total-count.svg"></a></br>
   <img src="https://github-readme-stats.vercel.app/api?username=xn1781&show_icons=true&theme=apprentice&show=discussions_started,discussions_answered" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn1781" />
@@ -11,8 +16,15 @@
 
 ---
 ### 📚 Roadmap
-I'm currently expanding my horizon into web development and systems programming:
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,c,cs,cpp,java" />
+I'm currently expanding my horizon into web development and systems programming: </br></br>
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
