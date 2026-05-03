@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
   </br>
   <a href="https://u8views.com/github/xn1781"><img src="https://u8views.com/api/v1/github/profiles/83955476/views/day-week-month-total-count.svg"></a></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=xn1781&show_icons=true&theme=apprentice&show=discussions_started,discussions_answered" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn1781" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xn1781&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
 ---
