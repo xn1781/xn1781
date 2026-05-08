@@ -10,7 +10,12 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
   </br>
   <a href="https://u8views.com/github/xn1781"><img src="https://u8views.com/api/v1/github/profiles/83955476/views/day-week-month-total-count.svg"></a></br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xn1781&theme=highcontrast" alt="GitHub Streak" /></a>
+  </br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xn1781/xn1781/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xn1781/xn1781/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xn1781/xn1781/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
