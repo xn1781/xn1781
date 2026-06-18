@@ -55,6 +55,4 @@ Currently looking into web development and systems programming: </br></br>
 
 | Title | Showcase |
 | :--- | :---: |
-| **Brainrot Race**<br><sub>(ABANDONED, PROJECT FILE GIVEN TO SOMEONE ELSE)</sub> | <div align="center"><sub>Visualization of obstacles hitbox on the server</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/br.png?raw=true" /></div> |
-| **99 Nights In The Forest Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/99ccu.png?raw=true" /></div> |
-| **Grow A Garden Modded** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/Screenshot%202026-03-18%20183527.png?raw=true" /></div> |
+| **Brainrot Race**<br><sub>(ABANDONED, PROJECT FILE GIVEN TO SOMEONE ELSE)</sub> | <div align="center"><sub>Visualization of obstacles hitbox on the server</sub><br><img src="https://github.com/xn1781/xn1781/blob/main/assets/br.png?raw=true" /></>
