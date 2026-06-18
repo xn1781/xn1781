@@ -51,7 +51,6 @@ Currently looking into web development and systems programming: </br></br>
 | **Minescript Ore ESP** | <div align="center"><img src="https://github.com/xn1781/xn1781/blob/main/assets/oreesp.png?raw=true" /></div> |
 
 **Roblox Games**
-> Stopped making modded games since last year
 
 | Title | Showcase |
 | :--- | :---: |
