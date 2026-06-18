@@ -36,7 +36,7 @@ Currently looking into web development and systems programming: </br></br>
 ### 📂 Projects
 
 **Combat Warriors**
-> Every vulnerability mentioned here has been disclosed to Combat Warriors developers
+> Every vulnerability mentioned here has been disclosed to Combat Warriors developers and i've been properly rewarded by them
 
 | Title | Showcase |
 | :--- | :---: |
