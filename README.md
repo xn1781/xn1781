@@ -35,6 +35,8 @@ Currently looking into web development and systems programming: </br></br>
 
 ### 📂 Projects
 
+# !! I do not exploit anymore !!
+
 **Combat Warriors**
 > Every vulnerability mentioned here has been disclosed to Combat Warriors developers and I have received proper rewards from them
 
